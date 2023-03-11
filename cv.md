@@ -8,10 +8,10 @@
 # About me  
 I am 23 years old, I work as a lawyer. I have little experience, but a great desire to learn and work.  I'm hardworking, ambitious, stress-resistant, purposeful and i hope this qualities will help me in further employment in the company.
 # Skills  
-*HTML  
-*CSS  
-*JavaScript (Basic)  
-*Figma (Basic)  
+* HTML  
+* CSS  
+* JavaScript (Basic)  
+* Figma (Basic)  
 # Code examples  
 function multiply (a, b) {  
 return a * b  
